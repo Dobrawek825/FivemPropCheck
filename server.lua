@@ -24,5 +24,5 @@ function sendDiscord(message)
             },
         }
     }
-    PerformHttpRequest("WKLEJASZ SWÓJ WEBHOOK", function(err, text, headers) end, 'POST', json.encode({username = name, embeds = content}), { ['Content-Type'] = 'application/json' })
+    PerformHttpRequest("wklejasz tu swój webhook", function(err, text, headers) end, 'POST', json.encode({username = name, embeds = content}), { ['Content-Type'] = 'application/json' })
 end
