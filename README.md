@@ -1,5 +1,5 @@
 #PropCheck
-Blokowanie wchodzenia z usunietymipropami
+Blokowanie wchodzenia z usunietymi propami
 
 Discord: Mlody.dobrawek#2115 pisz w razie problemu 
 Discord: Mlody.dobrawek#2115 pisz w razie problemu 
